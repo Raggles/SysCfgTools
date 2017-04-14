@@ -7,7 +7,7 @@
     <ProjectGuid>{F5066319-8C7E-4A31-A726-1E49C625108E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HC.SysCfgTools.IdfCompiler</RootNamespace>
+    <RootNamespace>SysCfgTools.IdfCompiler</RootNamespace>
     <AssemblyName>idfc</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

@@ -8,7 +8,7 @@
     <ProjectGuid>{4EF15D7F-5D1C-4B82-80B0-3AF0D909E19E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HC.SysCfgTools.BackupDeversioner</RootNamespace>
+    <RootNamespace>SysCfgTools.BackupDeversioner</RootNamespace>
     <AssemblyName>BackupDeversioner</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>

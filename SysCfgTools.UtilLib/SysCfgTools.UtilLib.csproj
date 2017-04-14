@@ -8,8 +8,8 @@
     <ProjectGuid>{876C6486-CCF5-4C16-A62C-E2461F3CBFCA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HC.SysCfgTools.UtilLib</RootNamespace>
-    <AssemblyName>HC.SysCfgTools.UtilLib</AssemblyName>
+    <RootNamespace>SysCfgTools.UtilLib</RootNamespace>
+    <AssemblyName>SysCfgTools.UtilLib</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

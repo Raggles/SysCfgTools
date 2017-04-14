@@ -7,7 +7,7 @@
     <ProjectGuid>{DFAEA49A-5EDE-4642-9856-C1F752E849BF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>HC.SysCfgTools.PortSwitcher</RootNamespace>
+    <RootNamespace>SysCfgTools.PortSwitcher</RootNamespace>
     <AssemblyName>PortSwitcher</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
